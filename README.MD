@@ -8,6 +8,11 @@
 
 ---
 
+### **Contributing**
+
+You are welcome to contribute to the project. Feel free to fork this repository, write some code and open a pull request.
+For bug reports and other feedback, please open up an Issue.
+
 ### **Functionality Overview**
 
 - Read and write Card data (including Fusion table, Equip table, Ritual table) ☑
